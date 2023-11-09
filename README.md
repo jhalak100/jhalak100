@@ -2,7 +2,9 @@
 - 👀 I’m interested in exploring new things
 - 🌱 I’m currently learning data analyst
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me jhalakbishopkarma@gmail..com
+- 📫 How to reach me jhalakbishopkarma@gmail..
+
+
 
 <!---
 jhalak100/jhalak100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
